@@ -1,6 +1,6 @@
-## T-Shirt Size Finder
+## FitMatch
 # Overview
-T-Shirt Size Finder is a Chrome extension designed to help users find the perfect T-shirt size based on their measurements. By analyzing size charts and product information on web pages, this tool makes it easy to determine the best fit for your body dimensions.
+FitMatch is a Chrome extension designed to help users find the perfect T-shirt size based on their measurements. By analyzing size charts and product information on web pages, this tool makes it easy to determine the best fit for your body dimensions.
 
 # Features
 Automatically scans web pages for size-related information.

@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "T-Shirt Size Finder",
+  "name": "FitMatch",
   "version": "1.0",
   "description": "Helps find the right T-shirt size based on your measurements",
   "permissions": ["activeTab", "storage"],
